@@ -1,0 +1,22 @@
+.first-div{
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+    }
+.second-div{
+    height: 100px;
+    width: 600px;
+    background-color: #b4d9b2;
+    }
+.first-text{
+    font-size: 75px;
+    color: blue;
+    }
+.second-text{
+    font-size: 25px;
+    color: red;
+    }
+.third-text{
+    font-family: 'Courier New', Courier, monospace;
+    color: #0b7306;
+    }
